@@ -8,6 +8,7 @@
 *  **Fast Forward:** `F1` - `F6`
 *  **Slow Motion:** `1` - `6`
 *  **Open DemoUI:** `R`
-*  **Spec Player:** `E` 
+*  **Spec Certain Player:** `E`
+> Current setting "Spealot"  
 *  **Reset Spec Target:** `0`
 *  **Restore Keys:** `x`
