@@ -1,2 +1,0 @@
-# democrtl
-easy demo control
