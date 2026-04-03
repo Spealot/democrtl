@@ -6,6 +6,6 @@ capslock		pause/play
 F1 - F6 		fast forward   
 1 - 6 			slow  
 r			      open demoui  
-e 			    spec certain player, current s  
+e 			    spec certain player
 x			      restore bind keys  
 0 			    reset spectator target  
