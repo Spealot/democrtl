@@ -1,11 +1,12 @@
-easy demo control cfg  
-type 'exec democtrl' or 'dc' to use  
-press 'x' or 'exec democtrl_restore' to restore  
-  
-capslock		pause/play  
-F1 - F6 		fast forward   
-1 - 6 			slow  
-r			      open demoui  
-e 			    spec certain player
-x			      restore bind keys  
-0 			    reset spectator target  
+## Easy Demo Control CFG
+
+> **Usage:** type `exec democtrl` or `dc` in console  
+> **Restore:** press `x` or type `exec democtrl_restore`
+
+### Controls
+*  **Pause/Play:** `Caps Lock`
+*  **Fast Forward:** `F1` - `F6`
+*  **Slow Motion:** `1` - `6`
+*  **Open DemoUI:** `R`
+*  **Spec Player:** `E` (Restore: `X`)
+*  **Reset Target:** `0`
