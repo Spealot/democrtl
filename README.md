@@ -9,5 +9,5 @@
 *  **Slow Motion:** `1` - `6`
 *  **Open DemoUI:** `R`
 *  **Spec Player:** `E` 
-*  **Reset Target:** `0`
+*  **Reset Spec Target:** `0`
 *  **Restore Keys:** `x`
