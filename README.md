@@ -1,4 +1,4 @@
-Spealot's easy demo control cfg  
+easy demo control cfg  
 'exec democtrl' to use  
 press 'x' or 'exec democtrl_restore' to restore  
   
