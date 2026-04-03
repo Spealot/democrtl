@@ -1,5 +1,5 @@
 easy demo control cfg  
-'exec democtrl' to use  
+type 'exec democtrl' or 'dc' to use  
 press 'x' or 'exec democtrl_restore' to restore  
   
 capslock		pause/play  
