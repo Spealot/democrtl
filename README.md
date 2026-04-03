@@ -9,6 +9,5 @@
 *  **Slow Motion:** `1` - `6`
 *  **Open DemoUI:** `R`
 *  **Spec Certain Player:** `E`
-> Current setting "Spealot"  
 *  **Reset Spec Target:** `0`
 *  **Restore Keys:** `x`
