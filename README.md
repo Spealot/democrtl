@@ -8,5 +8,6 @@
 *  **Fast Forward:** `F1` - `F6`
 *  **Slow Motion:** `1` - `6`
 *  **Open DemoUI:** `R`
-*  **Spec Player:** `E` (Restore: `X`)
+*  **Spec Player:** `E` 
 *  **Reset Target:** `0`
+*  **Restore Keys:** `x`
