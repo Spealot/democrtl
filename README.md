@@ -2,7 +2,7 @@
 
 > **Setup:** type `host_writeconfig democtrl_restore` in console
 > 
-> **Usage:** type `exec democtrl` or `dc` in console  
+> **Usage:** type `exec democtrl` in console  
 > **Restore:** press `x` on your keyboard
 
 ### Controls
