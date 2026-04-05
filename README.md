@@ -1,5 +1,5 @@
 ## Easy Demo Control CFG
-> **Setup:** write `alias democtrl_stat "democtrl_OFF"` in your autoexec.cfg
+> **Setup:** write `alias democtrl_stat "democtrl_OFF"` in your autoexec.cfg  
 > **Usage:** type `exec democtrl` in console  
 > **Restore:** press `x` on your keyboard or type `democtrl_exit` in console
 
