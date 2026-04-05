@@ -1,7 +1,9 @@
 ## Easy Demo Control CFG
 
+> **Setup:** type `host_writeconfig democtrl_restore` in console
+
 > **Usage:** type `exec democtrl` or `dc` in console  
-> **Restore:** press `x` or type `exec democtrl_restore`
+> **Restore:** press `x` on your keyboard
 
 ### Controls
 *  **Pause/Play:** `Caps Lock`
