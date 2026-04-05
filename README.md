@@ -12,7 +12,7 @@
 *  **Reset Spec Target:** `0`
 *  **Restore Keys:** `x`
 
-## IFile Management Notice
+## File Management Notice
 
 Due to Source Engine's security restrictions, the game client cannot physically delete files from your hard drive. This configuration uses `host_writeconfig` to create a temporary backup of your settings.
 
