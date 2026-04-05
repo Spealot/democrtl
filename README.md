@@ -11,3 +11,8 @@
 *  **Spec Certain Player:** `E`
 *  **Reset Spec Target:** `0`
 *  **Restore Keys:** `x`
+
+### WARNING
+After watching your demo, press the **`X`** key.
+
+This cfg modifies your game settings (binds, network, graphics) for optimal demo viewing. To return to your original gameplay settings, **you MUST press the `X` key** before closing the game or starting a new match.
